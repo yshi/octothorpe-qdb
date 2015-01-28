@@ -1,7 +1,45 @@
-[quote]
+[[quote]]
 submitted_by = "plus"
 content = """
 <aibi> owls: these fucking compile times, man ....
 <owls> help im using ftp
 <aibi> .. remind me not to complain at you"""
+involved_users = ["aibi", "owls"]
+
+
+[[quote]]
+submitted_by = "owls"
+content = """
+<pem> paleo diet bro, eat like cavemen ate
+<owls> but i can't find any aurochs
+<cthuljew> Because we all know that cave men lived long healthy lives.
+<cthuljew> And spent most of their time sitting in front of computer shaped rocks posting on Rockkit.
+<owls> that is so going on my rocklr
+<cthuljew> And advocating a return to the Mammoth Femur Standard because fiat bones are theft."""
+involved_users = ["pem", "owls", "cthuljew"]
+
+
+[[quote]]
+submitted_by = "owls"
+content = """
+<aibi> why do people install Malwarebytes Anti-Malware on Android
+<aibi> doesn't the sandboxing prevent it from doing FUCKING ANYTHING?"""
+involved_users = ["aibi"]
+
+
+[[quote]]
+submitted_by = "owls"
+content = """
+<plus> bees with spears
+<aibi> don't they usually have those"""
+involved_users = ["plus", "aibi"]
+
+
+[[quote]]
+submitted_by = "owls"
+content = """
+<flamingspinach> it's so bizarre that we're slowly migrating to a world where the very ether around us is managed not by the implacable laws of physics but by fallible, subpoena-able companies acting at the more-or-less arbitrary whims of small groups of individual human beings
+<flamingspinach> it's so bizarre that there could even be a concept of america's enemies establishing connections with servers owned by americans and controlled by america and sending messages to those servers, but in a way that somehow guarantees them safety from american interests
+<flamingspinach> any soldier 100 years ago would tell you that you were insane and should just stop fucking rendezvousing with the enemy and sending them information of any kind"""
+involved_users = ["flamingspinach"]
 
