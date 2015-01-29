@@ -47,6 +47,6 @@ involved_users = ["flamingspinach"]
 [[quote]]
 submitted_by = "owls"
 content = """
-[20:07:15] <pem> our server admins are comedians and called the tape libraries mash and gravy, and the admin server for backups is called chips
-[20:07:28] <pem> so now i have to write a change request to add gravy to chips"""
+<pem> our server admins are comedians and called the tape libraries mash and gravy, and the admin server for backups is called chips
+<pem> so now i have to write a change request to add gravy to chips"""
 involved_users = ["pem"]
